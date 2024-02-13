@@ -1,13 +1,11 @@
-[![MasterHead](https://drive.google.com/file/d/1nJUQOB8HmP2_5CwC0htfyMH8MVvpjfkE/view?usp=sharing)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Romario Marcal</h1>
-<h3 align="center">Timorese Tech Enthusiast 🇹🇱</h3>
-<img align="right" alt="My Coding Logo" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSRV1030%2FSRV1030%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw0r7iTOiaFGbqj-lQaTZN_a&ust=1707886157300000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCP5e_Bp4QDFQAAAAAdAAAAABAE">
-
+<h3 align="right">Timorese Tech Enthusiast 🇹🇱</h3>
+<img align="right" alt="My Coding Logo" width="400" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-roma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-roma" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-roma" alt="mr-roma" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Go language, C++, and Kotlin**
+- 🌱 I’m currently learning **Flutter, Go, language, C++, and Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://mr-roma.github.io/romario.github.io/](https://mr-roma.github.io/romario.github.io/)
 
