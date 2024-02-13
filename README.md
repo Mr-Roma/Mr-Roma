@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-roma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-roma" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-roma" alt="mr-roma" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Go, language, C++, and Kotlin**
+- 🌱 I’m currently learning **Flutter, Go language, C++, and Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://mr-roma.github.io/romario.github.io/](https://mr-roma.github.io/romario.github.io/)
 
