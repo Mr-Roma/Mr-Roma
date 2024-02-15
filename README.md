@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/romario marcal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romario marcal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/romario-marcal-60a481258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romario marcal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/romario gajog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="romario gajog" height="30" width="40" /></a>
 <a href="https://instagram.com/romariogajog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romariogajog" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/romario gajog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="romario gajog" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChCKch9q9aDfwNRgk0d_Xhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="romario gajog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
