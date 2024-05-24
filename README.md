@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-roma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-roma" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-roma" alt="mr-roma" /></a> </p>
 
-- 🌱 I’m currently learning **Multiplatform Mobile Programming Flutter with Dart, explore Go language and C++, as well as Android Native Programming with Android Studio Kotlin and learning Jetpack Compose**
+- 🌱 I’m currently learning **Multiplatform Mobile with Flutter with Dart, and Mobile Android with Kotlin, as well as backend with Node js, and Prototyping design**
 
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://portfolio-web-5ec79.web.app/)
 
