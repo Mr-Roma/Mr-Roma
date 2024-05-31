@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://portfolio-web-5ec79.web.app/)
 
+- 👨‍💻 I am actively follow programming challenges in CODEWARS [MyAccount](https://www.codewars.com/users/Mr-Roma)
+
 - 💬 Ask me about **Content Creator, Futsal, Programming and Information Technology**
 
 - 📫 How to reach me **romariomarcal11@gmail.com**
