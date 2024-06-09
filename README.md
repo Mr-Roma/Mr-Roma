@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Romario Marcal</h1>
 <h3 align="center">Timorese Tech, Web & Mobile Developer Enthusiast</h3>
 <div align = "center">
-  <img align="center" alt="My Coding Logo" width="400"     
-    [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20🤠&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+  <img align="center" alt="My Coding Logo" width="800" height="400" src="https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20🤠&text2=💖%20Open%20Source&width=800&height=400" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-roma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-roma" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-roma" alt="mr-roma" /></a> </p>
