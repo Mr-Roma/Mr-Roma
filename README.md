@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Romario Marcal</h1>
 <h3 align="center">Timorese Tech, Web & Mobile Developer Enthusiast</h3>
 <div align = "center">
-  <img align="center" alt="My Coding Logo" width="800" height="400" src="https://svg-banners.vercel.app/api?type=origin&text1=KEEP%20LEARNING%20&text2=💖%20Romario%20Marcal&width=800&height=400" />
+  <img align="center" alt="My Coding Logo" width="800" height="400" src="https://svg-banners.vercel.app/api?type=origin&text1=LONG LIFE%20LEARNER%20&text2=💖%20Romario%20Marcal&width=800&height=400" />
 </div>
 <p></p>
 <p align="left"> 
