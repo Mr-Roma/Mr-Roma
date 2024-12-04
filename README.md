@@ -68,6 +68,10 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
+    <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/huggingface/huggingface_hub/main/docs/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
+    </a>
+
 </p>
 
 
