@@ -1,9 +1,10 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5599612" style='border:none;'></iframe>
+
 <h1 align="center">Hi 👋, I'm Romario Marcal</h1>
 <h3 align="center">Mbile Development & Cyber Security Enthusiast</h3>
-<div align = "center">
-  <img align="center" alt="My Coding Logo" width="800" height="400" src="https://svg-banners.vercel.app/api?type=origin&text1=LONGLIFE%20LEARNER%20&text2=💖%20Romario%20Marcal&width=800&height=400" />
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/5599612.png" alt="TryHackMe Badge" />
 </div>
+
 <p></p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mr-roma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-roma" /> </p>
