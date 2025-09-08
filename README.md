@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Romario Marcal</h1>
-<h3 align="center">Mbile Development & Cyber Security Enthusiast</h3>
+<h3 align="center">Mobile Development & Cyber Security Enthusiast</h3>
 <div align="center">
   <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5599612" alt="TryHackMe Badge" />
   
