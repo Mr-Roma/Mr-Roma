@@ -1,79 +1,154 @@
-
 <h1 align="center">Hi 👋, I'm Romario Marcal</h1>
-<h3 align="center">Mobile Development & Cyber Security Enthusiast</h3>
-<div align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5599612" alt="TryHackMe Badge" />
-  
-</div>
-
-<p></p>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mr-roma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-roma" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-roma" alt="mr-roma" /></a> </p>
-
-- 👨‍💻 I am actively follow programming challenges in CODEWARS [MyAccount](https://www.codewars.com/users/Mr-Roma)
-
-- 💬 Ask me about **Content Creator, Futsal, Programming and Information Technology**
-
-- 📫 How to reach me **romariomarcal11@gmail.com**
-
-- ⚡ Fun fact **Friendly and Futsal Athlete**
-
-<h3 align="left">Tech Stack:</h3>
-<p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/huggingface/huggingface_hub/main/docs/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
-    </a>
-
+<h3 align="center">🚀 Engineering Intelligent Mobile Experiences</h3>
+<p align="center">
+<b>Flutter and iOS Developer</b> • <b>AI and Cyber Security Enthusiast </b> • <b>Content Creator</b>
 </p>
 
+<div align="center">
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5599612" alt="TryHackMe Badge" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-roma&show_icons=true&locale=en&layout=compact" alt="mr-roma" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mr-roma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-roma" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-roma&show_icons=true&locale=en" alt="mr-roma" /></p>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=mr-roma" alt="mr-roma" />
+</a>
+</p>
 
+👨‍💻 About Me
+
+I am an Informatics student passionate about bridging the gap between Mobile Development and Artificial Intelligence. I love building systems that are not just functional, but smart. Currently focusing on the Apple Ecosystem (SwiftUI & CoreML) to bring machine learning models to the palm of your hand.
+
+🔭 I’m currently working on AmBox (AI-powered Boxing App) & Vitato (AR iOS App).
+
+🌱 I’m currently learning CoreML, Advanced SwiftUI, and Game Dev (Unity).
+
+👯 I’m looking to collaborate on Open Source iOS or AI projects.
+
+🥊 Fun fact: Friendly Futsal Athlete & Content Creator (@Romario Dev).
+
+🛠 Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" />
+
+
+
+
+Swift
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+
+
+
+
+Python
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+
+
+
+
+Flutter
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
+
+
+
+
+Kotlin
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+
+
+
+
+C++
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+
+
+
+
+Dart
+</td>
+</tr>
+<tr>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/huggingface/huggingface_hub/main/docs/assets/huggingface_logo.svg" width="40" height="40" alt="HuggingFace" />
+
+
+
+
+HuggingFace
+</td>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
+
+
+
+
+Firebase
+</td>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
+
+
+
+
+Figma
+</td>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+
+
+
+
+Git
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+
+
+
+
+MySQL
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
+
+
+
+
+NodeJS
+</td>
+</tr>
+</table>
+
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmr-roma%26show_icons%3Dtrue%26locale%3Den%26theme%3Dradical%26hide_border%3Dtrue" alt="mr-roma" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dmr-roma%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="mr-roma" width="48%" />
+</div>
+
+<div align="center">
+<b>📫 Reach me at:</b> <a href="mailto:romariomarcal11@gmail.com">romariomarcal11@gmail.com</a>
+
+
+
+
+
+<i>Always open to discussing AI, Mobile Dev, and Content creator
+strategies!</i>
+</div>
