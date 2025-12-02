@@ -6,12 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=mr-roma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-roma" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mr-roma" alt="mr-roma" />
-  </a>
-</p>
-
 <h3>👨‍💻 About Me</h3>
 <p>I am an Informatics student passionate about bridging the gap between <b>Mobile Development</b> and <b>Artificial Intelligence</b>. I love building systems that are not just functional, but <b>smart</b>. Currently focusing on the Apple Ecosystem (SwiftUI & CoreML) to bring machine learning models to the palm of your hand.</p>
 
