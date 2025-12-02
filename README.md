@@ -2,10 +2,6 @@
 <h3 align="center">🚀 Engineering Intelligent Mobile Experiences</h3>
 <p align="center"> <b>Mobile Developer</b> • <b>AI and Cyber Security Enthusiast</b> • <b>Content Creator</b> </p>
 
-<div align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5599612" alt="TryHackMe Badge" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-roma&label=Profile%20views&color=0e75b6&style=flat" alt="mr-roma" />
 </p>
