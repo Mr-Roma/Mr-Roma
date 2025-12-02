@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Romario Marcal</h1>
 <h3 align="center">🚀 Engineering Intelligent Mobile Experiences</h3>
-<p align="center"> <b>iOS Developer</b> • <b>AI Enthusiast</b> • <b>Content Creator</b> </p>
+<p align="center"> <b>Mobile Developer</b> • <b>AI and Cyber Security Enthusiast</b> • <b>Content Creator</b> </p>
 
 <div align="center">
   <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5599612" alt="TryHackMe Badge" />
