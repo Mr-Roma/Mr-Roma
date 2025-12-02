@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romario Marcal</h1>
-<h3 align="center">🚀 Engineering Intelligent Mobile Experiences</h3>
+<h3 align="center">Software Developer & Tech Influencer</h3>
 <p align="center"> <b>Mobile Developer</b> • <b>AI and Cyber Security Enthusiast</b> • <b>Content Creator</b> </p>
 
 <p align="center">
